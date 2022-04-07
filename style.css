@@ -1,0 +1,64 @@
+.wrapper {
+  width: 1140px;
+  margin: 0 auto;
+  padding: 40px;
+}
+.img1 img {
+  width: 250px;
+  float: left;
+  margin-left: 311px;
+}
+img {
+  max-width: 100%;
+}
+.img2 img {
+  width: 525px;
+  float: right;
+}
+
+.header h1 {
+  color: rgb(42, 64, 148);
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin-left: 20px;
+}
+
+.header p {
+  margin: 28px 0 0;
+}
+.header button {
+  font-weight: 700;
+  width: 129px;
+  height: 38px;
+  margin-top: 10px;
+  background: rgb(42, 64, 148);
+  color: white;
+  border: none;
+}
+.box3 img {
+  width: 250px;
+  float: right;
+  margin-right: -305px;
+}
+.box2 {
+  background: rgb(245, 247, 250);
+  width: 525px;
+  float: left;
+  margin-left: 37px;
+  margin-top: 20px;
+}
+@import url("https://fonts.googleapis.com/css2?family=League+Gothic:wdth@88.4&family=League+Spartan:wght@700&family=Roboto&family=Yanone+Kaffeesatz:wght@500&display=swap");
+
+body {
+  font-family: "League Gothic", sans-serif;
+}
+.box2 h1 {
+  text-align: left;
+}
+.box2 p {
+  text-align: justify;
+  padding: 20px;
+}
+.box2 button {
+  margin: 20px;
+}
